@@ -1083,7 +1083,7 @@ outline: 5px dashed salmon;
 
 * [009 - Usando Links externos]()
 
-* [010 - Imagem Dinâmica, Reproduzir Áudio]()
+* [010 - Imagem Dinâmica e Reproduzir Áudio]()
 
 * [011 - Vídeos Local e Externo]()
 
@@ -1091,15 +1091,15 @@ outline: 5px dashed salmon;
 
 * [013 - Representação por Nomes, Hexadecimais, RGB, HSL, Transparência e Degradê]()
 
-* []()
+* [014 - Fontes em CSS]()
 
-* []()
+* [015 - Fontes com Google Fonts, Externas e Alinhamento]()
 
-* []()
+* [016 - Seletores personalizados em CSS]()
 
-* []()
+* [017 - Hover, Links, Pseudo-Classes]()
 
-* []()
+* [018 - Modelo de Caixa, Grouping Tags]()
 
 * []()
 
