@@ -3,22 +3,22 @@
 Este Repositório é um registro dos meus estudos, está formado por tópicos e características, suas descrições são simplistas, para fidelidade das informações acessar as Documentações Oficiais e Livros Especializados.
 
 ---
-[Tutoriais](https://github.com/renato-machado-developer/Estudos/tree/main/Tutorial)
+[Tutoriais](https://github.com/renato-developer/estudos/tree/main/tutoriais)
 
-[Ferramentas Developer](https://github.com/renato-machado-developer/Estudos/tree/main/Ferramentas%20Developer)
-
----
-[Git e GitHub](https://github.com/renato-machado-developer/Estudos/tree/main/GitHub)
-
-[HTML e CSS](https://github.com/renato-machado-developer/Estudos/tree/main/HTML5%20e%20CSS3)
-
-[JavaScript]
-
-[WordPress]
-
-[GIMP]
+[Ferramentas e Dicas](https://github.com/renato-developer/estudos/tree/main/ferramentas)
 
 ---
-[Manjaro](https://github.com/renato-machado-developer/Estudos/tree/main/Manjaro)
+[Git e GitHub](https://github.com/renato-developer/estudos/tree/main/github)
 
-[MySQL](https://github.com/renato-machado-developer/Estudos/tree/main/MySQL)
+[HTML5 e CSS3](https://github.com/renato-developer/estudos/tree/main/html-css)
+
+[JavaScript]()
+
+[WordPress]()
+
+[Photoshop e GIMP](https://github.com/renato-developer/estudos/tree/main/photoshop)
+
+---
+[Manjaro]()
+
+[MySQL]()

@@ -371,16 +371,16 @@ Live Server.
 ---
 **Link Interno**
 
-`<a href="`https://renato-machado-developer.github.io/ `" rel="next" target="_self">` Indica que é a próxima página (Mesmo site).
+`<a href="`https:// `" rel="next" target="_self">` Indica que é a próxima página (Mesmo site).
 
-`<a href="`https://renato-machado-developer.github.io/ `" rel="prev" target="_self">` Indica que é a página anterior (Mesmo site).
+`<a href="`https:// `" rel="prev" target="_self">` Indica que é a página anterior (Mesmo site).
 
 ---
 **Link Externo**
 
-`<a href="`https://renato-machado-developer.github.io/ `" target="_blank"` `rel="external">` Indica que é a página de outro site.
+`<a href="`https:// `" target="_blank"` `rel="external">` Indica que é a página de outro site.
 
-`<p>`Esta página é um oferecimento de `<a href="`https://www.hostnet.com.br/ `" target="_blank"` `rel="nofollow">` `Hostnet</a></p>` Indica para o mecanismo de busca não perpetuar o link.
+`<p>`Esta página é um oferecimento de `<a href="`https:// `" target="_blank"` `rel="nofollow">` `Hostnet</a></p>` Indica para o mecanismo de busca não perpetuar o link.
 
 ---
 **Download**
@@ -598,6 +598,31 @@ Selecione o texto  e `SHIFT` + `TAB`
 `background-image: linear-gradient` `(to top, #4FFFDC, #3FCCB0, #3D8577);`
 
 ---
+**Colocando imagem de fundo**
+
+`background-image:` `url(imagem.jpg)` `;`
+
+---
+**Posição da imagem de fundo**
+
+`background-position:` `center center` `;`
+
+---
+**Não repetir imagem de fundo**
+
+`background-repeat:` `no-repeat` `;`
+
+---
+**Tamanho da imagem de fundo**
+
+`background-size:` `cover` `;`
+
+---
+**Imagem Fixada no fundo**
+
+`background-attachment:` `fixed` `;`
+
+---
 **Fonte do Texto**
 
 `font-family:` `Arial, Helvetica, sans-serif` `;`
@@ -724,10 +749,12 @@ Selecione o texto  e `SHIFT` + `TAB`
 
 `border-width:` `10px` `;`
 
+---
 **Estilo da Borda**
 
 `border-style:` `solid` `;`
 
+---
 **Cor da Borda**
 
 `border-color:` `darkgray` `;`
@@ -737,14 +764,17 @@ Selecione o texto  e `SHIFT` + `TAB`
 
 `padding-top:` `10px` `;`
 
+---
 **Largura Direita do Preenchimento**
 
 `padding-right:` `10px` `;`
 
+---
 **Largura de Baixo do Preenchimento**
 
 `padding-bottom:` `10px` `;`
 
+---
 **Largura Esquerda do Preenchimento**
             
 `padding-left:` `10px` `;`
@@ -754,18 +784,22 @@ Selecione o texto  e `SHIFT` + `TAB`
 
 `margin-top:` `10px` `;`
 
+---
 **Margem da Direita**
 
 `margin-right:` `10px` `;`
 
+---
 **Margem de Baixo**
 
 `margin-bottom:` `10px` `;`
 
+---
 **Margem da Esquerda**
 
 `margin-left:` `10px` `;`
 
+---
 **Centralizar a Caixa**
 
 `margin: auto;`
@@ -775,14 +809,17 @@ Selecione o texto  e `SHIFT` + `TAB`
 
 `outline-width:` `5px` `;`
 
+---
 **Estilo do Contorno**
 
 `outline-style:` `dashed` `;`
 
+---
 **Cor do Contorno**
 
 `outline-color:` `salmon` `;`
 
+---
 **Tempo de Trasição**
 
 `transitioni-duration:` `0.5` `;`
@@ -926,9 +963,7 @@ font-style: italic;
 
 * font-style -> font-weight -> font-size -> font-family
 
-```
-font: italic bolder 3em Arial, Helvetica, sans-serif;
-```
+`font: italic bolder 3em Arial, Helvetica, sans-serif;`
 
 ---
 **border**
@@ -937,19 +972,20 @@ font: italic bolder 3em Arial, Helvetica, sans-serif;
 border-width: 10px;
 border-style: solid;
 border-color: darkgray;
-
-border: 10px solid darkgray;
 ```
 
-* Borda Personalizada
+`border: 10px solid darkgray;`
+
+---
+**Borda Personalizada**
 
 ```
 border-image-source: url("borda.png");
 border-image-slice: 38;
 border-image-repeat: repeat;
-
-/*border-image: url('borda.png') 27 repeat;*/
 ```
+
+`border-image: url('borda.png') 27 repeat;`
 
 ---
 **padding**
@@ -959,9 +995,9 @@ padding-top: 10px;
 padding-right: 10px;
 padding-bottom: 10px;
 padding-left: 10px;
-
-padding: 10px 10px 10px 10px;
 ```
+
+`padding: 10px 10px 10px 10px;`
 
 ---
 **margin**
@@ -971,9 +1007,9 @@ margin-top: 20px;
 margin-right: 20px;
 margin-bottom: 40px;
 margin-left: 20px;
-
-margin: 20px auto 40px auto;
 ```
+
+`margin: 20px auto 40px auto;`
 
 ---
 **outline**
@@ -982,9 +1018,30 @@ margin: 20px auto 40px auto;
 outline-width: 5px;
 outline-style: dashed;
 outline-color: salmon;
-
-outline: 5px dashed salmon;
 ```
+
+`outline: 5px dashed salmon;`
+
+---
+**Imagem de Fundo**
+
+```
+body {
+    height: 100vh;
+    background-color: black;
+    background-image: url(img/wallpaper003.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+```
+
+* color > image > position > repeat > [size] > attachment
+
+`background: black url(img/wallpaper003.jpg) center center no-repeat fixed;`
+
+`background-size: cover;`
 
 ---
 **Tipos de format() nas Fontes**
@@ -1083,7 +1140,7 @@ outline: 5px dashed salmon;
 
 * [009 - Usando Links externos]()
 
-* [010 - Imagem Dinâmica, Reproduzir Áudio]()
+* [010 - Imagem Dinâmica e Reproduzir Áudio]()
 
 * [011 - Vídeos Local e Externo]()
 
@@ -1091,15 +1148,15 @@ outline: 5px dashed salmon;
 
 * [013 - Representação por Nomes, Hexadecimais, RGB, HSL, Transparência e Degradê]()
 
-* []()
+* [014 - Fontes em CSS]()
 
-* []()
+* [015 - Fontes com Google Fonts, Externas e Alinhamento]()
 
-* []()
+* [016 - Seletores personalizados em CSS]()
 
-* []()
+* [017 - Hover, Links, Pseudo-Classes]()
 
-* []()
+* [018 - Modelo de Caixa, Grouping Tags]()
 
 * []()
 
