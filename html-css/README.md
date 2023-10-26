@@ -602,18 +602,22 @@ Selecione o texto  e `SHIFT` + `TAB`
 
 `background-image:` `url(imagem.jpg)` `;`
 
+---
 **Posição da imagem de fundo**
 
 `background-position:` `center center` `;`
 
+---
 **Não repetir imagem de fundo**
 
 `background-repeat:` `no-repeat` `;`
 
+---
 **Tamanho da imagem de fundo**
 
 `background-size:` `cover` `;`
 
+---
 **Imagem Fixada no fundo**
 
 `background-attachment:` `fixed` `;`
@@ -623,24 +627,29 @@ Selecione o texto  e `SHIFT` + `TAB`
 
 `font-family:` `Arial, Helvetica, sans-serif` `;`
 
+---
 **Tamanho da Fonte do Texto**
 
 `font-size:` `20px` `;`
 
+---
 **Cor da Fonte**
 
 `color:` `darkblue` `;`
 
+---
 **Alinhamento do texto**
 
 `text-align:` `left` `;`
 
 * left, center, right, justify
 
+---
 **Espaço entre linhas**
 
 `line-height:` `1em` `;`
 
+---
 **Espaço no começo do parágrafo**
 
 `text-indent:` `24px` `;`
@@ -740,10 +749,12 @@ Selecione o texto  e `SHIFT` + `TAB`
 
 `border-width:` `10px` `;`
 
+---
 **Estilo da Borda**
 
 `border-style:` `solid` `;`
 
+---
 **Cor da Borda**
 
 `border-color:` `darkgray` `;`
@@ -753,14 +764,17 @@ Selecione o texto  e `SHIFT` + `TAB`
 
 `padding-top:` `10px` `;`
 
+---
 **Largura Direita do Preenchimento**
 
 `padding-right:` `10px` `;`
 
+---
 **Largura de Baixo do Preenchimento**
 
 `padding-bottom:` `10px` `;`
 
+---
 **Largura Esquerda do Preenchimento**
             
 `padding-left:` `10px` `;`
@@ -770,18 +784,22 @@ Selecione o texto  e `SHIFT` + `TAB`
 
 `margin-top:` `10px` `;`
 
+---
 **Margem da Direita**
 
 `margin-right:` `10px` `;`
 
+---
 **Margem de Baixo**
 
 `margin-bottom:` `10px` `;`
 
+---
 **Margem da Esquerda**
 
 `margin-left:` `10px` `;`
 
+---
 **Centralizar a Caixa**
 
 `margin: auto;`
@@ -791,14 +809,17 @@ Selecione o texto  e `SHIFT` + `TAB`
 
 `outline-width:` `5px` `;`
 
+---
 **Estilo do Contorno**
 
 `outline-style:` `dashed` `;`
 
+---
 **Cor do Contorno**
 
 `outline-color:` `salmon` `;`
 
+---
 **Tempo de Trasição**
 
 `transitioni-duration:` `0.5` `;`
