@@ -1,3 +1,10 @@
+# Photoshop
+** Resumo simplista de manipulação de imagem com GIMP.
+
+## Geral
+* Resumo simplista de manipulação de imagem com Photoshop.
+
+---
 # GIMP
 * Resumo simplista de manipulação de imagem com GIMP.
 

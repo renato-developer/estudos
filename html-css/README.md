@@ -371,16 +371,16 @@ Live Server.
 ---
 **Link Interno**
 
-`<a href="`https://renato-machado-developer.github.io/ `" rel="next" target="_self">` Indica que é a próxima página (Mesmo site).
+`<a href="`https:// `" rel="next" target="_self">` Indica que é a próxima página (Mesmo site).
 
-`<a href="`https://renato-machado-developer.github.io/ `" rel="prev" target="_self">` Indica que é a página anterior (Mesmo site).
+`<a href="`https:// `" rel="prev" target="_self">` Indica que é a página anterior (Mesmo site).
 
 ---
 **Link Externo**
 
-`<a href="`https://renato-machado-developer.github.io/ `" target="_blank"` `rel="external">` Indica que é a página de outro site.
+`<a href="`https:// `" target="_blank"` `rel="external">` Indica que é a página de outro site.
 
-`<p>`Esta página é um oferecimento de `<a href="`https://www.hostnet.com.br/ `" target="_blank"` `rel="nofollow">` `Hostnet</a></p>` Indica para o mecanismo de busca não perpetuar o link.
+`<p>`Esta página é um oferecimento de `<a href="`https:// `" target="_blank"` `rel="nofollow">` `Hostnet</a></p>` Indica para o mecanismo de busca não perpetuar o link.
 
 ---
 **Download**
