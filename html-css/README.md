@@ -972,9 +972,9 @@ font-style: italic;
 border-width: 10px;
 border-style: solid;
 border-color: darkgray;
-
-border: 10px solid darkgray;
 ```
+
+`border: 10px solid darkgray;`
 
 ---
 **Borda Personalizada**
@@ -983,9 +983,9 @@ border: 10px solid darkgray;
 border-image-source: url("borda.png");
 border-image-slice: 38;
 border-image-repeat: repeat;
-
-border-image: url('borda.png') 27 repeat;
 ```
+
+`border-image: url('borda.png') 27 repeat;`
 
 ---
 **padding**
@@ -995,9 +995,9 @@ padding-top: 10px;
 padding-right: 10px;
 padding-bottom: 10px;
 padding-left: 10px;
-
-padding: 10px 10px 10px 10px;
 ```
+
+`padding: 10px 10px 10px 10px;`
 
 ---
 **margin**
@@ -1007,9 +1007,9 @@ margin-top: 20px;
 margin-right: 20px;
 margin-bottom: 40px;
 margin-left: 20px;
-
-margin: 20px auto 40px auto;
 ```
+
+`margin: 20px auto 40px auto;`
 
 ---
 **outline**
@@ -1018,9 +1018,9 @@ margin: 20px auto 40px auto;
 outline-width: 5px;
 outline-style: dashed;
 outline-color: salmon;
-
-outline: 5px dashed salmon;
 ```
+
+`outline: 5px dashed salmon;`
 
 ---
 **Imagem de Fundo**
@@ -1039,10 +1039,9 @@ body {
 
 * color > image > position > repeat > [size] > attachment
 
-```
-background: black url(img/wallpaper003.jpg) center center no-repeat fixed;
-background-size: cover;
-```
+`background: black url(img/wallpaper003.jpg) center center no-repeat fixed;`
+
+`background-size: cover;`
 
 ---
 **Tipos de format() nas Fontes**
