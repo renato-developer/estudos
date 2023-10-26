@@ -598,33 +598,49 @@ Selecione o texto  e `SHIFT` + `TAB`
 `background-image: linear-gradient` `(to top, #4FFFDC, #3FCCB0, #3D8577);`
 
 ---
+**Colocando imagem de fundo**
+
+`background-image:` `url(imagem.jpg)` `;`
+
+**Posição da imagem de fundo**
+
+`background-position:` `center center` `;`
+
+**Não repetir imagem de fundo**
+
+`background-repeat:` `no-repeat` `;`
+
+**Tamanho da imagem de fundo**
+
+`background-size:` `cover` `;`
+
+**Imagem Fixada no fundo**
+
+`background-attachment:` `fixed` `;`
+
+---
 **Fonte do Texto**
 
 `font-family:` `Arial, Helvetica, sans-serif` `;`
 
----
 **Tamanho da Fonte do Texto**
 
 `font-size:` `20px` `;`
 
----
 **Cor da Fonte**
 
 `color:` `darkblue` `;`
 
----
 **Alinhamento do texto**
 
 `text-align:` `left` `;`
 
 * left, center, right, justify
 
----
 **Espaço entre linhas**
 
 `line-height:` `1em` `;`
 
----
 **Espaço no começo do parágrafo**
 
 `text-indent:` `24px` `;`
@@ -926,9 +942,7 @@ font-style: italic;
 
 * font-style -> font-weight -> font-size -> font-family
 
-```
-font: italic bolder 3em Arial, Helvetica, sans-serif;
-```
+`font: italic bolder 3em Arial, Helvetica, sans-serif;`
 
 ---
 **border**
@@ -941,14 +955,15 @@ border-color: darkgray;
 border: 10px solid darkgray;
 ```
 
-* Borda Personalizada
+---
+**Borda Personalizada**
 
 ```
 border-image-source: url("borda.png");
 border-image-slice: 38;
 border-image-repeat: repeat;
 
-/*border-image: url('borda.png') 27 repeat;*/
+border-image: url('borda.png') 27 repeat;
 ```
 
 ---
@@ -984,6 +999,28 @@ outline-style: dashed;
 outline-color: salmon;
 
 outline: 5px dashed salmon;
+```
+
+---
+**Imagem de Fundo**
+
+```
+body {
+    height: 100vh;
+    background-color: black;
+    background-image: url(img/wallpaper003.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+```
+
+* color > image > position > repeat > [size] > attachment
+
+```
+background: black url(img/wallpaper003.jpg) center center no-repeat fixed;
+background-size: cover;
 ```
 
 ---
