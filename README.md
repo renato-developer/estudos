@@ -3,20 +3,20 @@
 Este Repositório é um registro dos meus estudos, está formado por tópicos e características, suas descrições são simplistas, para fidelidade das informações acessar as Documentações Oficiais e Livros Especializados.
 
 ---
-[Tutoriais]()
+[Tutoriais](https://github.com/renato-developer/estudos/tree/main/tutoriais)
 
-[Ferramentas Developer]()
+[Ferramentas e Dicas](https://github.com/renato-developer/estudos/tree/main/ferramentas)
 
 ---
-[Git e GitHub]()
+[Git e GitHub](https://github.com/renato-developer/estudos/tree/main/github)
 
-[HTML e CSS]()
+[HTML5 e CSS3](https://github.com/renato-developer/estudos/tree/main/html-css)
 
-[JavaScript]
+[JavaScript]()
 
-[WordPress]
+[WordPress]()
 
-[GIMP]
+[Photoshop e GIMP](https://github.com/renato-developer/estudos/tree/main/photoshop)
 
 ---
 [Manjaro]()
