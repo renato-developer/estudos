@@ -69,11 +69,11 @@
 
 * Representa uma entidade exclusiva na World Wide Web.
 
-* Na URL "www.example.com/renato-machado":
+* Na URL "www.example.com/renato-developer":
   * **www** sub-domínio, não é parte do próprio domínio.
   * **exemplo** SLD, nome do domínio.
   * **.com** TLD, extensão do domínio.
-  * **renato-machado** caminho.
+  * **renato-developer** caminho.
 
 ---
 ## Hospedagem
@@ -128,7 +128,7 @@
 
 * GitHub Desktop
 
-* GIMP
+* Photoshop ou GIMP
 
 ---
 ## Configuração Visual Studio Code
@@ -1122,43 +1122,43 @@ body {
 
 ---
 ## Lista de exercícios
-* [001 - Código Base.]()
+* [001 - Código Base.](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex001%230000001)
 
-* [002 - Parágrafos, Quebras de Linha, Símbolos, Emoji]()
+* [002 - Parágrafos, Quebras de Linha, Símbolos, Emoji](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex002%230000002)
 
-* [003 - Colocar Imagem]()
+* [003 - Colocar Imagem](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex003%230000003)
 
-* [004 - Colocar Favicon]()
+* [004 - Colocar Favicon](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex004%230000004)
 
-* [005 - Hierarquia de Títulos]()
+* [005 - Hierarquia de Títulos](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex005%230000005)
 
-* [006 - Negrito, Itálico, Texto Marcado, Pequeno, Deletado, Inserido, Sobrescrito e Subscrito.]()
+* [006 - Negrito, Itálico, Texto Marcado, Pequeno, Deletado, Inserido, Sobrescrito e Subscrito.](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex006%230000006)
 
-* [007 - Codigo, Citação, Abreviação]()
+* [007 - Codigo, Citação, Abreviação](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex007%230000007)
 
-* [008 - Lista Ordenada, Não Ordenada, Misturada, de Definições.]()
+* [008 - Lista Ordenada, Não Ordenada, Misturada, de Definições.](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex008%230000008)
 
-* [009 - Usando Links externos]()
+* [009 - Usando Links externos](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex009%230000009)
 
-* [010 - Imagem Dinâmica e Reproduzir Áudio]()
+* [010 - Imagem Dinâmica e Reproduzir Áudio](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex010%230000010)
 
-* [011 - Vídeos Local e Externo]()
+* [011 - Vídeos Local e Externo](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex011%230000011)
 
-* [012 - CSS Externo]()
+* [012 - CSS Externo](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex012%230000012)
 
-* [013 - Representação por Nomes, Hexadecimais, RGB, HSL, Transparência e Degradê]()
+* [013 - Representação por Nomes, Hexadecimais, RGB, HSL, Transparência e Degradê](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex013%230000013)
 
-* [014 - Fontes em CSS]()
+* [014 - Fontes em CSS](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex014%230000014)
 
-* [015 - Fontes com Google Fonts, Externas e Alinhamento]()
+* [015 - Fontes com Google Fonts, Externas e Alinhamento](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex015%230000015)
 
-* [016 - Seletores personalizados em CSS]()
+* [016 - Seletores personalizados em CSS](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex016%230000016)
 
-* [017 - Hover, Links, Pseudo-Classes]()
+* [017 - Hover, Links, Pseudo-Classes](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex017%230000017)
 
-* [018 - Modelo de Caixa, Grouping Tags]()
+* [018 - Modelo de Caixa, Grouping Tags](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex018%230000018)
 
-* []()
+* [](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex019%230000019)
 
 * []()
 
