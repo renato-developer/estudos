@@ -623,12 +623,26 @@ Selecione o texto  e `SHIFT` + `TAB`
 `background-attachment:` `fixed` `;`
 
 ---
-**Fonte do Texto**
+**Fonte**
 
 `font-family:` `Arial, Helvetica, sans-serif` `;`
 
 ---
-**Tamanho da Fonte do Texto**
+**Peso da Fonte**
+
+`font-weight:` `normal` `;`
+
+* lighter, normal, bold, bolder
+
+* 100 - 900
+
+---
+**Estilo da Fonte**
+
+`font-style:` `italic` `;`
+
+---
+**Tamanho da Fonte**
 
 `font-size:` `20px` `;`
 
@@ -638,11 +652,33 @@ Selecione o texto  e `SHIFT` + `TAB`
 `color:` `darkblue` `;`
 
 ---
-**Alinhamento do texto**
+**Letras Maiúsculas**
+
+`font-variant:` `small-caps` `;`
+
+---
+**Decorando o Texto**
+
+`text-decoration:` `underline` `;`
+
+---
+**Alinhamento do Texto**
 
 `text-align:` `left` `;`
 
 * left, center, right, justify
+
+---
+**Sombra no Texto**
+
+`text-shadow:` `1px` `1px` `2px` `rgba(129, 77, 5, 0, 0.726)` `;`
+
+* Parâmetros, 5px para o lado, 5px para baixo, espalhamento, transparência.
+
+---
+**Espaço no começo do parágrafo**
+
+`text-indent:` `24px` `;`
 
 ---
 **Espaço entre linhas**
@@ -650,9 +686,11 @@ Selecione o texto  e `SHIFT` + `TAB`
 `line-height:` `1em` `;`
 
 ---
-**Espaço no começo do parágrafo**
+**Sombra na Caixa de Texto**
 
-`text-indent:` `24px` `;`
+`box-shadow:` `5px` `5px` `rgba(136, 109, 93, 0.616)` `;`
+
+* Parâmetros, 5px para o lado, 5px para baixo, espalhamento, transparência.
 
 ---
 **Altura 100%**
@@ -678,39 +716,6 @@ Selecione o texto  e `SHIFT` + `TAB`
 **Arrendodando Bordas**
 
 `border-radius:` `10px` `;`
-
----
-**Sombra na Caixa de Texto**
-
-`box-shadow:` `5px` `5px` `rgba(136, 109, 93, 0.616)` `;`
-
-* Parâmetros, 5px para o lado, 5px para baixo, espalhamento, transparência.
-
----
-**Sombra no Texto**
-
-`text-shadow:` `1px` `1px` `2px` `rgba(129, 77, 5, 0, 0.726)` `;`
-
-* Parâmetros, 5px para o lado, 5px para baixo, espalhamento, transparência.
-
----
-**Peso da Fonte**
-
-`font-weight:` `normal` `;`
-
-* lighter, normal, bold, bolder
-
-* 100 - 900
-
----
-**Estilo da Fonte**
-
-`fonte-style:` `italic` `;`
-
----
-**Decorando o Texto**
-
-`text-decoration:` `underline` `;`
 
 ---
 **Modificando Marcador da Lista**
@@ -823,6 +828,21 @@ Selecione o texto  e `SHIFT` + `TAB`
 **Tempo de Trasição**
 
 `transitioni-duration:` `0.5` `;`
+
+---
+**Posicionamento Relativo a si mesmo**
+
+`position:` `relative` `;`
+
+---
+**Deslocamento Absoluto**
+
+`position:` `absolute` `;`
+
+---
+**Movimenta o Elemento**
+
+`transform:` `translate` `(-50%, -50%)` `;`
 
 ---
 **Símbolos nas CSS**
@@ -1158,7 +1178,7 @@ body {
 
 * [018 - Modelo de Caixa, Grouping Tags](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex018%230000018)
 
-* [](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex019%230000019)
+* [Posição do Fundo, Fundo Fixo na Tela, Alinhamento Vertical](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex019%230000019)
 
 * []()
 
