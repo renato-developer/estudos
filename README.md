@@ -12,13 +12,13 @@ Este Repositório é um registro dos meus estudos, está formado por tópicos e 
 
 [HTML5 e CSS3](https://github.com/renato-developer/estudos/tree/main/html-css)
 
-[JavaScript]()
+[JavaScript]
 
-[WordPress]()
+[WordPress]
 
 [Photoshop e GIMP](https://github.com/renato-developer/estudos/tree/main/photoshop)
 
 ---
-[Manjaro]()
+[Manjaro](https://github.com/renato-developer/estudos/tree/main/manjaro)
 
-[MySQL]()
+[MySQL](https://github.com/renato-developer/estudos/tree/main/mysql)

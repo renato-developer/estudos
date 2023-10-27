@@ -69,11 +69,11 @@
 
 * Representa uma entidade exclusiva na World Wide Web.
 
-* Na URL "www.example.com/renato-machado":
+* Na URL "www.example.com/renato-developer":
   * **www** sub-domínio, não é parte do próprio domínio.
   * **exemplo** SLD, nome do domínio.
   * **.com** TLD, extensão do domínio.
-  * **renato-machado** caminho.
+  * **renato-developer** caminho.
 
 ---
 ## Hospedagem
@@ -128,7 +128,7 @@
 
 * GitHub Desktop
 
-* GIMP
+* Photoshop ou GIMP
 
 ---
 ## Configuração Visual Studio Code
@@ -623,12 +623,26 @@ Selecione o texto  e `SHIFT` + `TAB`
 `background-attachment:` `fixed` `;`
 
 ---
-**Fonte do Texto**
+**Fonte**
 
 `font-family:` `Arial, Helvetica, sans-serif` `;`
 
 ---
-**Tamanho da Fonte do Texto**
+**Peso da Fonte**
+
+`font-weight:` `normal` `;`
+
+* lighter, normal, bold, bolder
+
+* 100 - 900
+
+---
+**Estilo da Fonte**
+
+`font-style:` `italic` `;`
+
+---
+**Tamanho da Fonte**
 
 `font-size:` `20px` `;`
 
@@ -638,11 +652,33 @@ Selecione o texto  e `SHIFT` + `TAB`
 `color:` `darkblue` `;`
 
 ---
-**Alinhamento do texto**
+**Letras Maiúsculas**
+
+`font-variant:` `small-caps` `;`
+
+---
+**Decorando o Texto**
+
+`text-decoration:` `underline` `;`
+
+---
+**Alinhamento do Texto**
 
 `text-align:` `left` `;`
 
 * left, center, right, justify
+
+---
+**Sombra no Texto**
+
+`text-shadow:` `1px` `1px` `2px` `rgba(129, 77, 5, 0, 0.726)` `;`
+
+* Parâmetros, 5px para o lado, 5px para baixo, espalhamento, transparência.
+
+---
+**Espaço no começo do parágrafo**
+
+`text-indent:` `24px` `;`
 
 ---
 **Espaço entre linhas**
@@ -650,9 +686,11 @@ Selecione o texto  e `SHIFT` + `TAB`
 `line-height:` `1em` `;`
 
 ---
-**Espaço no começo do parágrafo**
+**Sombra na Caixa de Texto**
 
-`text-indent:` `24px` `;`
+`box-shadow:` `5px` `5px` `rgba(136, 109, 93, 0.616)` `;`
+
+* Parâmetros, 5px para o lado, 5px para baixo, espalhamento, transparência.
 
 ---
 **Altura 100%**
@@ -678,39 +716,6 @@ Selecione o texto  e `SHIFT` + `TAB`
 **Arrendodando Bordas**
 
 `border-radius:` `10px` `;`
-
----
-**Sombra na Caixa de Texto**
-
-`box-shadow:` `5px` `5px` `rgba(136, 109, 93, 0.616)` `;`
-
-* Parâmetros, 5px para o lado, 5px para baixo, espalhamento, transparência.
-
----
-**Sombra no Texto**
-
-`text-shadow:` `1px` `1px` `2px` `rgba(129, 77, 5, 0, 0.726)` `;`
-
-* Parâmetros, 5px para o lado, 5px para baixo, espalhamento, transparência.
-
----
-**Peso da Fonte**
-
-`font-weight:` `normal` `;`
-
-* lighter, normal, bold, bolder
-
-* 100 - 900
-
----
-**Estilo da Fonte**
-
-`fonte-style:` `italic` `;`
-
----
-**Decorando o Texto**
-
-`text-decoration:` `underline` `;`
 
 ---
 **Modificando Marcador da Lista**
@@ -823,6 +828,21 @@ Selecione o texto  e `SHIFT` + `TAB`
 **Tempo de Trasição**
 
 `transitioni-duration:` `0.5` `;`
+
+---
+**Posicionamento Relativo a si mesmo**
+
+`position:` `relative` `;`
+
+---
+**Deslocamento Absoluto**
+
+`position:` `absolute` `;`
+
+---
+**Movimenta o Elemento**
+
+`transform:` `translate` `(-50%, -50%)` `;`
 
 ---
 **Símbolos nas CSS**
@@ -1122,41 +1142,63 @@ body {
 
 ---
 ## Lista de exercícios
-* [001 - Código Base.]()
+* [001 - Código Base.](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex001%230000001)
 
-* [002 - Parágrafos, Quebras de Linha, Símbolos, Emoji]()
+* [002 - Parágrafos, Quebras de Linha, Símbolos, Emoji](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex002%230000002)
 
-* [003 - Colocar Imagem]()
+* [003 - Colocar Imagem](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex003%230000003)
 
-* [004 - Colocar Favicon]()
+* [004 - Colocar Favicon](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex004%230000004)
 
-* [005 - Hierarquia de Títulos]()
+* [005 - Hierarquia de Títulos](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex005%230000005)
 
-* [006 - Negrito, Itálico, Texto Marcado, Pequeno, Deletado, Inserido, Sobrescrito e Subscrito.]()
+* [006 - Negrito, Itálico, Texto Marcado, Pequeno, Deletado, Inserido, Sobrescrito e Subscrito.](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex006%230000006)
 
-* [007 - Codigo, Citação, Abreviação]()
+* [007 - Codigo, Citação, Abreviação](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex007%230000007)
 
-* [008 - Lista Ordenada, Não Ordenada, Misturada, de Definições.]()
+* [008 - Lista Ordenada, Não Ordenada, Misturada, de Definições.](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex008%230000008)
 
-* [009 - Usando Links externos]()
+* [009 - Usando Links externos](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex009%230000009)
 
-* [010 - Imagem Dinâmica e Reproduzir Áudio]()
+* [010 - Imagem Dinâmica e Reproduzir Áudio](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex010%230000010)
 
-* [011 - Vídeos Local e Externo]()
+* [011 - Vídeos Local e Externo](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex011%230000011)
 
-* [012 - CSS Externo]()
+* [012 - CSS Externo](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex012%230000012)
 
-* [013 - Representação por Nomes, Hexadecimais, RGB, HSL, Transparência e Degradê]()
+* [013 - Representação por Nomes, Hexadecimais, RGB, HSL, Transparência e Degradê](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex013%230000013)
 
-* [014 - Fontes em CSS]()
+* [014 - Fontes em CSS](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex014%230000014)
 
-* [015 - Fontes com Google Fonts, Externas e Alinhamento]()
+* [015 - Fontes com Google Fonts, Externas e Alinhamento](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex015%230000015)
 
-* [016 - Seletores personalizados em CSS]()
+* [016 - Seletores personalizados em CSS](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex016%230000016)
 
-* [017 - Hover, Links, Pseudo-Classes]()
+* [017 - Hover, Links, Pseudo-Classes](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex017%230000017)
 
-* [018 - Modelo de Caixa, Grouping Tags]()
+* [018 - Modelo de Caixa, Grouping Tags](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex018%230000018)
+
+* [Posição do Fundo, Fundo Fixo na Tela, Alinhamento Vertical](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex019%230000019)
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
+
+* []()
 
 * []()
 
@@ -1181,6 +1223,7 @@ body {
 * []()
 
 * []()
+
 ---
 ## Glossário
 
