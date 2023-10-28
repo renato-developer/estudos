@@ -1178,49 +1178,7 @@ body {
 
 * [018 - Modelo de Caixa, Grouping Tags](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex018%230000018)
 
-* [Posição do Fundo, Fundo Fixo na Tela, Alinhamento Vertical](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex019%230000019)
-
-* []()
-
-* []()
-
-* []()
-
-* []()
-
-* []()
-
-* []()
-
-* []()
-
-* []()
-
-* []()
-
-* []()
-
-* []()
-
-* []()
-
-* []()
-
-* []()
-
-* []()
-
-* []()
-
-* []()
-
-* []()
-
-* []()
-
-* []()
-
-* []()
+* [019 - Posição do Fundo, Fundo Fixo na Tela, Alinhamento Vertical](https://github.com/renato-developer/estudos/tree/main/html-css/curso-em-video/exercicios/ex019%230000019)
 
 * []()
 
