@@ -58,3 +58,4 @@ Photoshop for Beginners - FREE COURSE
 
 Continuação do curso de Photoshop para iniciantes, dia 16-03-2024
 Continuação do curso de Photoshop para iniciantes, dia 17-03-2024
+Continuação do curso de Photoshop para iniciantes, dia 18-03-2024
